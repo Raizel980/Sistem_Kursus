@@ -694,7 +694,7 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                   </div>
 
                   <div class="item_text">
-                    <h5>Sarah Smith</h5>
+                    <h5>Anas Mahmuddin</h5>
                     <h6>envato.com</h6>
 
                     <p>
