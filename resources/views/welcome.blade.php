@@ -654,8 +654,8 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
             <div class="main_test fix">
               <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="head_title text-center fix">
-                  <h2 class="text-uppercase">What Teacher Say</h2>
-                  <h5>Anggota Kelompok 4 :</h5>
+                  <h2 class="text-uppercase">Testimoni</h2>
+                  <h5>Alumni sistem kursus kami:</h5>
                 </div>
               </div>
 
@@ -664,19 +664,18 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                   <div class="item_img">
                     <img
                       class="img-circle"
-                      src="assets/images/test-img1.jpg"
+                      src="assets/images/indrA .jpg"
                       alt=""
                     />
                     <i class="fa fa-quote-left"></i>
                   </div>
 
                   <div class="item_text">
-                    <h5>Abdurrahman Siddik</h5>
-                    <h6>envato.com</h6>
+                    <h5>Indra Nur Wahyudi S.H</h5>
+                    <h6>indranurwahyudi11@gmail.com</h6>
 
                     <p>
-                      Natus voluptatum enim quod necessitatibus quis expedita
-                      harum provident eos obcaecati id culpa corporis molestias.
+                      Dalam hidup, tidak semua hal berjalan sesuai rencana, tapi setiap langkah—baik yang kecil maupun yang berat—adalah bagian dari perjalanan menuju diri yang lebih kuat. Jangan takut gagal, karena kegagalan bukan akhir, melainkan tanda bahwa kamu sedang mencoba. Teruslah melangkah, meski pelan, karena kemajuan sekecil apa pun tetaplah kemajuan. Percayalah, selama kamu tidak berhenti, kamu masih dalam jalur menuju impianmu.
                     </p>
                   </div>
                 </div>
@@ -694,12 +693,11 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                   </div>
 
                   <div class="item_text">
-                    <h5>Anas Mahmuddin</h5>
-                    <h6>envato.com</h6>
+                    <h5>Nabil Muflih Hanan</h5>
+                    <h6>Ebilrab10@gmail.com</h6>
 
                     <p>
-                      Natus voluptatum enim quod necessitatibus quis expedita
-                      harum provident eos obcaecati id culpa corporis molestias.
+                      Hidup tidak selalu mudah, tapi setiap pagi adalah kesempatan baru untuk mencoba lagi. Jangan biarkan keraguan menenggelamkan keyakinanmu. Meski jalan terasa terjal dan tujuan tampak jauh, ingatlah bahwa langkahmu hari ini membawa dampak besar di masa depan. Kamu tidak harus sempurna untuk bisa maju—cukup jadi versi terbaik dari dirimu sendiri, satu hari demi satu hari. Teruskan, karena kamu lebih kuat dari yang kamu kira.
                     </p>
                   </div>
                 </div>
@@ -785,7 +783,7 @@ Materi disusun secara sistematis dan dilengkapi panduan visual agar Anda bisa la
                     Kami adalah tempat belajar terbaik untuk mengembangkan keterampilan kreatif Anda. Dari dasar hingga mahir, kami mendampingi setiap langkah Anda menuju kesuksesan.
                   </p>
                   <div class="widget_ab_item m-top-30">
-                    <div class="item_icon">
+                    <div class="item_icon"
                       <i class="fa fa-location-arrow"></i>
                     </div>
                     <div class="widget_ab_item_text">
